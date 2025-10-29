@@ -52,6 +52,7 @@ The goal: build a minimal, clean, functional app that allows users to manage a l
 | Home / List View | Add Item Screen | Completed State |
 |------------------|------------------|------------------|
 
+<img width="1920" height="1080" alt="Note To Delete a Task, swipe right to left on it" src="https://github.com/user-attachments/assets/3b65d34c-fe3d-4056-95d9-87e06f09ff5d" />
 
 ---
 
@@ -117,7 +118,8 @@ Through this exercise, I reinforced principles of clean architecture, UI/UX thin
 
 If you’d like to chat, view code, or see more of my work:
 
-- **GitHub:** [Ekojode](https://github.com/Ekojode)  
+- **GitHub:** [Ekojode](https://github.com/Ekojode)
+- **LinkedIn:** [Ekojode](https://www.linkedin.com/in/ekojode-oma-victor-795185353/)  
 - **Email:** [ekojodeoma@gmail.com]  
 
 ---
